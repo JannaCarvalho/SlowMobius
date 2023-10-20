@@ -1,0 +1,55 @@
+|===========================================================================================================================================|
+|		OCORRENCE			|  TIME (s)	|  WARTIME (MM:SS)	|									CONSOLE LOG									| 
+|---------------------------|-----------|-------------------|-------------------------------------------------------------------------------|
+|	Respawn Wave 1			|	20		|		29:40		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 2			|	40		|		29:20		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 3			|	60		|		29:00		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 4			|	80		|		28:40		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 5			|	100		|		28:20		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 6			|	120		|		28:00		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 7			|	140		|		27:40		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 8			|	160		|		27:20		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 9			|	180		|		27:00		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 10			|	200		|		26:40		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 11			|	220		|		26:20		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 12			|	240		|		26:00		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 13			|	260		|		25:40		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=0 timer=20	|
+|	Respawn Wave 14			|	280		|		25:20		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=20	|
+|	Respawn Wave 15			|	308		|		24:52		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 16			|	336		|		24:24		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 17			|	364		|		23:56		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 18			|	392		|		23:28		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 19			|	420		|		23:00		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 20			|	448		|		22:32		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 21			|	476		|		22:04		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 22			|	504		|		21:36		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 23			|	532		|		21:08		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 24			|	560		|		20:40		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 25			|	588		|		20:12		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=1 timer=28	|
+|	Respawn Wave 26			|	617		|		19:43		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=28	|
+|	Respawn Wave 27			|	653		|		19:07		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 28			|	689		|		18:31		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 29			|	725		|		17:55		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 30			|	761		|		17:19		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 31			|	797		|		16:43		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 32			|	833		|		16:07		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 33			|	869		|		15:31		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 34			|	905		|		14:55		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=2 timer=36	|
+|	Respawn Wave 35			|	941		|		14:19		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=36	|
+|	Respawn Wave 36			|	985		|		13:35		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=44	|
+|	Respawn Wave 37			|	1029	|		12:51		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=44	|
+|	Respawn Wave 38			|	1073	|		12:07		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=44	|
+|	Respawn Wave 39			|	1117	|		11:23		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=44	|
+|	Respawn Wave 40			|	1161	|		10:39		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=44	|
+|	Respawn Wave 41			|	1205	|		09:55		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=3 timer=44	|
+|	Respawn Wave 42			|	1249	|		09:11		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=4 timer=44	|
+|	Respawn Wave 43			|	1301	|		08:19		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=4 timer=52	|
+|	Respawn Wave 44			|	1353	|		07:27		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=4 timer=52	|
+|	Respawn Wave 45			|	1405	|		06:35		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=4 timer=52	|
+|	Respawn Wave 46			|	1457	|		05:43		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=4 timer=52	|
+|	Respawn Wave 47			|	1510	|		04:50		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=5 timer=52	|
+|	Respawn Wave 48			|	1570	|		03:50		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=5 timer=60	|
+|	Respawn Wave 49			|	1630	|		02:50		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=5 timer=60	|
+|	Respawn Wave 50			|	1690	|		01:50		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=5 timer=60	|
+|	Respawn Wave 51			|	1750	|		00:50		|	Wave hit at dd/MM/YYYY  hh:mm:ss PM: params: countersCompleted=6 timer=60	|
+|===========================================================================================================================================|

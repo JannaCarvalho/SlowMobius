@@ -1,0 +1,28 @@
+|===================================================================================================================================================================|
+|				OCORRENCE					|  TIME (s)	|	  SOUND		|									CONSOLE LOG												|
+|-------------------------------------------|-----------|---------------|-------------------------------------------------------------------------------------------|
+|Wave 1 Starting							|	0		|	Iwave1.mp3	| `Wave 1 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Last Spawn Wave 1							|	165		|	Fwave1.mp3	| `Last Spawn Wave 1 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 2 Starting							|	225		|	Iwave2.mp3	| `Wave 2 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Last Spawn Wave 2							|	390		|	Fwave2.mp3	| `Last Spawn Wave 2 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 3 Starting							|	450		|	Iwave3.mp3	| `Wave 3 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Last Spawn Wave 3							|	615		|	Fwave3.mp3	| `Last Spawn Wave 3 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 4 Starting							|	675		|	Iwave4.mp3	| `Wave 4 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Last Spawn Wave 4							|	840		|	Fwave4.mp3	| `Last Spawn Wave 4 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 5 Starting							|	900		|	Iwave5.mp3	| `Wave 5 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Last Spawn Wave 5							|	1065	|	Fwave5.mp3	| `Last Spawn Wave 5 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 6 Starting							|	1125	|	Iwave6.mp3	| `Wave 6 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Void Destroyer Spawning at Middle Gate (B)	|	1255(-5)|	VBgate.mp3	| `Void Destroyer Middle Gate Starts at ${new Date().toLocaleString()}, timer=${this.timer}`|
+|Last Spawn Wave 6							|	1290	|	Fwave6.mp3	| `Last Spawn Wave 6 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 7 Starting							|	1350	|	Iwave7.mp3	| `Wave 7 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Void Destroyer Spawning at Middle Gate (B)	|	1380(-5)|	VBgate.mp3	| `Void Destroyer Middle Gate Starts at ${new Date().toLocaleString()}, timer=${this.timer}`|
+|Void Destroyer Spawning at Left Gate (A)	|	1450(-5)|	VAgate.mp3	| `Void Destroyer Left Gate Starts at ${new Date().toLocaleString()}, timer=${this.timer}`	|
+|Last Spawn Wave 7							|	1515	|	Fwave7.mp3	| `Last Spawn Wave 7 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Wave 8 Starting							|	1575	|	Iwave8.mp3	| `Wave 8 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Void Destroyer Spawning at Right Gate (C)	|	1595(-5)|	VCgate.mp3	| `Void Destroyer Right Gate Starts at ${new Date().toLocaleString()}, timer=${this.timer}`	|
+|Void Destroyer Spawning at Left Gate (A)	|	1645(-5)|	VAgate.mp3	| `Void Destroyer Left Gate Starts at ${new Date().toLocaleString()}, timer=${this.timer}`	|
+|Void Destroyer Spawning at Middle Gate (B)	|	1715(-5)|	VBgate.mp3	| `Void Destroyer Middle Gate Starts at ${new Date().toLocaleString()}, timer=${this.timer}`|
+|Last Spawn Wave 8							|	1740	|	Fwave8.mp3	| `Last Spawn Wave 8 Starts at ${new Date().toLocaleString()}, timer=${this.timer}`			|
+|Invasion Ending							|	1800	|	EndInv.mp3	| `Invasion Ending at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|Leaving Channel 							|	1810	|	   #NA		| `Leaving Channel at ${new Date().toLocaleString()}, timer=${this.timer}`					|
+|===========================================|===========|===============|===========================================================================================|
